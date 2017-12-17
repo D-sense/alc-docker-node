@@ -1,12 +1,12 @@
 {
-  "name": "docker-app",
+  "name": "alc-docker-node",
   "version": "1.0.0",
-  "description": "",
+  "description": "Using Docker to run Node.js application and database on different nodes.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Adesina Hammed H.",
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.2",
