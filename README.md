@@ -11,7 +11,7 @@ Using Docker to run Node.js application and database on different nodes.
 
 - Install Docker and MongoDB on your system.
 - Fork the repository into your favourite directory.  
-- Run `docker-compose build` to build the container, images and install dependences.
+- Navigate to the directory of the repository and run `docker-compose build` to build the container, images and install dependences.
 - Run `docker-compose up` to run the application and access `http://localhost:3000/` in your browser.  
 
 
